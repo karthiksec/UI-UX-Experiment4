@@ -19,7 +19,5 @@ Checkout/Contact/Final Action Screen.
 
 ## Output
 
-
-
 ## Result:
 Designing a wireframe diagram for a generic application or website using Balsamiq is done successfully.
