@@ -17,8 +17,9 @@ Content/Product Listing Screen
 
 Checkout/Contact/Final Action Screen.
 
-## Output:
-![output](<Screenshot 2025-05-26 181149.png>)
+## Output
+
+
 
 ## Result:
 Designing a wireframe diagram for a generic application or website using Balsamiq is done successfully.
